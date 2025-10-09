@@ -2,9 +2,9 @@
 <h3 align="center">B.S. in Computer Science (Machine Learning Track) @ University of Maryland</h3>
 <img align="right" alt="Coding" width="350" height="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working as a **Machine Learning Engineer Intern** at **ASPR AI**, developing reusable validation pipelines for **LLM benchmarking, embeddings, and TTS evaluation** across AWS Bedrock, OpenAI, and Gemini.
+- 🔭 I’m currently working as a **Machine Learning Engineer Intern** at **ASPR AI**, developing reusable validation pipelines for **LLM benchmarking, embeddings, and TTS evaluation** across AWS Bedrock, OpenAI, Gemini, and ElevenLabs.
 
-- 🌱 I’m currently learning **advanced model evaluation methods, generative AI frameworks, and cloud integrations (AWS + Azure)**.
+- 🌱 I’m currently learning **advanced model evaluation methods, generative AI frameworks, and cloud integrations (AWS + OpenAI + Gemini)**.
 
 - 👯 I’m looking to collaborate on **AI/ML, data-driven applications, and evaluation frameworks for generative models**.
 
@@ -42,17 +42,6 @@
 <h3 align="center">🏅 Achievements</h3>
 
 - 🏆 **President’s Scholar** and **Dean’s List** at the University of Maryland  
-- 📊 Published open-source dataset: [SalesBot500](https://huggingface.co/datasets)  
+- 📊 Publishing three open-source datasets on HuggingFace (Coming soon!)  
 - ☁️ **IBM Cloud Computing Certificate**  
-- ✨ Co-author on a **research paper** on LLM benchmarking methodologies  
-
----
-
-<h3 align="center">📈 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arushi9g&theme=tokyonight" alt="arushi9g" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arushi9g&show_icons=true&theme=tokyonight" alt="arushi9g" />
-</p>
+- ✨ Co-author on a **research paper** on LLM benchmarking methodologies
