@@ -2,7 +2,7 @@
 <h3 align="center">B.S. in Computer Science (Machine Learning Track) @ University of Maryland</h3>
 <img align="right" alt="Coding" width="350" height="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working as a **Machine Learning Engineer Intern** at **ASPR AI**, developing reusable validation pipelines for **LLM benchmarking, embeddings, and TTS evaluation** across AWS Bedrock, OpenAI, Gemini, and ElevenLabs.
+- 🔭 I’m currently working as a **Machine Learning Engineer Intern** at **Causify**, developing AgenticEDA, an autonomous LLM powered agent for fully automated exploratory data analysis (EDA) across arbitrary datasets.
 
 - 🌱 I’m currently learning **advanced model evaluation methods, generative AI frameworks, and cloud integrations (AWS + OpenAI + Gemini)**.
 
