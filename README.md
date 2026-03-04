@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **LLMs, NLP pipelines, VR applications, or building scalable AI tools.**
 
-- 🧠 Past experience: **Software Engineer Intern @ MegaMinds**, where I built and presented **VR demo environments** and improved **UI/UX workflows**.
+- 🧠 Past experience: **Machine Learning Engineer Intern @ ASPR AI**, where I designed a full scale open source LLM Benchmarking system, utilized by the company in sales related contexts.
 
 - ⚡ Fun fact: I co-founded a **baking catering business** with my sister that we ran throughout school 🍰
 
